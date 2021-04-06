@@ -6,5 +6,6 @@ public class Main {
         System.out.println(student1.toName());
         student1.setAge(10);
         System.out.println(student1.getAge());
+        System.out.println("Hello");
     }
 }
